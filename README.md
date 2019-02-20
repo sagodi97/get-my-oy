@@ -1,4 +1,4 @@
-# get-my=oy
+# get-my-oy
 
 ### In a nutshell
 Scraps subjects information from PJATK's dziekanat portal (html file) and outputs an API ready JSON file .
